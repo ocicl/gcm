@@ -1,0 +1,10 @@
+* gcm
+
+Google Cloud Messaging (GCM) library for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/death/gcm.git   |
+| commit  | a080deb  |
+| systems | gcm |
+|---------+-------------------------------------------|
+
